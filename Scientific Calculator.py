@@ -1,3 +1,4 @@
+#BEANONYMOUS#
 # IMPORTING REQUIRED MODULES #
 from tkinter import * # IMPORT EVERYTHING FROM TKINTER MODULE
 import tkinter.messagebox # IMPORTING MESSAGE BOX
@@ -228,3 +229,4 @@ root.config(menu=menubar)
 root.mainloop()
 
 
+#SUPER
